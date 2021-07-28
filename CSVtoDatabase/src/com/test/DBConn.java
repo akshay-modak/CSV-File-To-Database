@@ -2,7 +2,7 @@ package com.test;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-
+//Database Connection Class
 public class DBConn {
 	
 	private static Connection con;

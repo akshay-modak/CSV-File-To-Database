@@ -1,5 +1,5 @@
 package com.test;
-
+//Student DTO which keeps the Student record object by object
 public class Student
 {
 	private String studRollNo;
